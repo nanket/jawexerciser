@@ -37,6 +37,7 @@ abstract class JawExerciserDatabase : RoomDatabase() {
                     "jaw_exerciser_database"
                 )
                 .addCallback(DatabaseCallback())
+                .fallbackToDestructiveMigration()
                 .build()
                 INSTANCE = instance
                 instance
