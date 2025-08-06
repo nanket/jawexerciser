@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jaw Exerciser</string>
+    <string name="start_exercise">Start Exercise</string>
+    <string name="exercise_history">Exercise History</string>
+    <string name="jaw_opener">Jaw Opener</string>
+    <string name="chin_lift">Chin Lift</string>
+    <string name="side_to_side">Side-to-Side Jaw Shift</string>
+    <string name="reps">Reps: %d</string>
+    <string name="duration">Duration: %s</string>
+    <string name="end_session">End Session</string>
+    <string name="session_summary">Session Summary</string>
+    <string name="camera_permission_required">Camera permission is required for jaw exercise tracking</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="exercise_description_jaw_opener">Open your mouth wide and hold for 2 seconds, then close slowly</string>
+    <string name="exercise_description_chin_lift">Lift your chin up while keeping your mouth closed</string>
+    <string name="exercise_description_side_to_side">Move your jaw from side to side in a controlled motion</string>
+</resources>
